@@ -1,9 +1,9 @@
-  # Summary
+## 龙与地下城5E
 
   * [Introduction](README.md)
   * [游戏介绍](c01/gamejj.md)
       * [检索实操](ch0/RepSearchPractice.md)
-      * [基础任务](ch0/RepTaskBasic.md)_
+      * [基础任务](ch0/RepTaskBasic.md)
       * [进阶任务](ch0/RepTaskAdvanced.md)
       * [个人教程](ch0/handbook.md)
   * [第一讲：从现实问题到学科信息](ch1/README.md)
