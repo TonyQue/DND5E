@@ -11,6 +11,7 @@
 ### 矮小敦实Short and stout
 
 ​     勇猛而顽强的矮人们被认为是技艺纯熟的战士，矿工，以及精通石头和金属的工匠。尽管他们大多身高不及5尺，但矮人宽大而壮实的身材使他们往往和高出2尺的人类差不多重。他们的勇气和耐力更不比任何大家伙差。
+
 ​     矮人的肤色范围在深褐色到微红的灰白之间，最常见的是浅褐色或者深古铜色，正好给人一种泥土的感觉。矮人蓄长发，但不梳花哨的复杂发型。矮人的头发通常呈黑、灰或褐色，而肤色较浅的矮人则往往长着红发。男性矮人将他们的胡子视若珍宝，因此常常对其进行小心的梳理。
 
 
@@ -18,7 +19,9 @@
 ### 记忆久远，仇恨长存Long Memory, Long Grudges
 
 ​     矮人们能活到400岁以上，所以矮人长者们的记忆中往往存在着一个十分不同的世界。比如，居于费尔巴堡Citadel  Felbarr（存在于被遗忘的国度战役设定中）的矮人长者们仍记得三个多世纪前兽人攻陷要塞的那天，在那之后，矮人们还被放逐了长达250年。较长的寿命使矮人们形成了一种独特的世界观，而寿命较短的种族（如人类和半身人）则不具备这种观念。
+
 ​     矮人们极为坚韧顽强，如同他们所喜欢的群山一样，就算历尽风吹雨打和世纪变迁仍巍然不动。他们绝不会轻易冒犯或放弃传统，而这些备受尊重的历史传统甚至可以追溯到太古时代，其时矮人先祖们还在建造着第一批要塞。一些传统体现了矮人们对其守护神们的敬仰和热爱，而这些神祇则代表着矮人价值观中最重要的部分：辛勤劳动、精通战斗以及对锻造的热爱。
+
 ​     矮人们意志坚定，忠心耿耿，他们行事果断且言出必行，有时甚至会为此显得顽固不已。矮人大多有强烈的正义感，而且他们绝不会忘记自己所受过的耻辱。侮辱一个矮人就等于侮辱其整个氏族，一名矮人进行的复仇行动，很容易就会引爆整个氏族，然后矮人们将同仇敌忾一同采取复仇行动。
 
 
@@ -26,7 +29,9 @@
 ### 氏族与王国Clans and Kingdoms
 
 ​     矮人王国延伸在群山之下，他们在这里挖掘宝石和贵金属，然后锻造出各种神奇的物品。他们热爱贵金属与珠宝所蕴含的精美与技艺，只是某些矮人会将这份热爱堕落成贪婪。矮人们会通过交易换区群山中找不到的资源。他们并不喜欢船，因此精于商贸的人类或半身人正好充当矮人水路贸易的重要贸易中介。在矮人聚居地中受矮人信任的外族人很受欢迎，然而聚居地的某些区域仍然会禁止外人进入。
+
 ​     构成矮人社会的基本单位是氏族，且氏族中的矮人们还非常注重社会地位的高低。即使是远离所属王国的矮人仍会时刻注意自身在氏族中的地位与亲属关系，仍能随时认出同氏族的矮人，而且还会以其部落祖先的名义起誓或咒骂他人。在一名矮人看来，最可怕的惩罚莫过于被逐出氏族。
+
 ​     在矮人王国之外居住的矮人大多是工匠，多为武器匠、护甲匠和珠宝匠。其中还有一部分人会成为佣兵或保镖，并且因其矮人天性的勇气和忠诚而备受雇主欢迎。
 
 
@@ -41,11 +46,11 @@
 
 ​     依照传统，矮人必须由氏族长老命名并重复使用代代相传的名字。矮人的名字不属于自己，而是属于氏族。若矮人让名字蒙羞，其名字将被氏族剥夺。依照矮人的律法，被剥夺名字的矮人禁止再使用矮人的名字。
 
-> **男性名字Male Names：**阿德里克Adrik、阿贝里希Alberich、巴恩Baern、巴伦德Barendd、布洛托Brottor、布鲁诺Bruenor、达因Dain、达拉克Darrak、德尔格Delg、艾帕克Eberk、因克Einkil、法格林Fargrim、弗林特Flint、加代因Gardain、哈比克Harbek、基尔德拉克Kildrak、莫格兰Morgran、欧斯克Orsik、奥斯卡Oskar、朗格琳Rangrim、鲁瑞克Rurik、塔可林Taklinn、索拉丁Thoradin、索林Thorin、托达克Tordek、特若本Traubon、特拉沃克Travok、伍夫加Ulfgar、维特Veit、冯达尔Vondal
+- **男性名字Male Names：**阿德里克Adrik、阿贝里希Alberich、巴恩Baern、巴伦德Barendd、布洛托Brottor、布鲁诺Bruenor、达因Dain、达拉克Darrak、德尔格Delg、艾帕克Eberk、因克Einkil、法格林Fargrim、弗林特Flint、加代因Gardain、哈比克Harbek、基尔德拉克Kildrak、莫格兰Morgran、欧斯克Orsik、奥斯卡Oskar、朗格琳Rangrim、鲁瑞克Rurik、塔可林Taklinn、索拉丁Thoradin、索林Thorin、托达克Tordek、特若本Traubon、特拉沃克Travok、伍夫加Ulfgar、维特Veit、冯达尔Vondal
 
-> **女性名字Female Names：**安珀Amber、爱汀Artin、欧德希德Audhild、巴德莱恩Bardryn、达格娜Dagnal、黛萨Diesa、艾尔德芙Eldeth、法尔克伦Falkrunn、菲涅伦Finellen、冈罗妲Gunnloda、古尔蒂斯Gurdis、赫尔嘉Helja、贺琳Hlin、卡夫拉Kathra、克丽丝莱德Kristryd、伊尔蒂Ilde、丽芙拉萨Liftrasa、玛德雷德Mardred、丽丝怀恩Riswynn、珊诺Sannl、托贝拉Torbera、托嘉Torgga、维斯特拉Vistra
+- **女性名字Female Names：**安珀Amber、爱汀Artin、欧德希德Audhild、巴德莱恩Bardryn、达格娜Dagnal、黛萨Diesa、艾尔德芙Eldeth、法尔克伦Falkrunn、菲涅伦Finellen、冈罗妲Gunnloda、古尔蒂斯Gurdis、赫尔嘉Helja、贺琳Hlin、卡夫拉Kathra、克丽丝莱德Kristryd、伊尔蒂Ilde、丽芙拉萨Liftrasa、玛德雷德Mardred、丽丝怀恩Riswynn、珊诺Sannl、托贝拉Torbera、托嘉Torgga、维斯特拉Vistra
 
-> **氏族名称Clan Names：**巴尔德克Balderk、战锤Battlehammer、布劳南威尔Brawnanvil、丹吉尔Dankil、火铸Fireforge、霜须Frostbeard、果伦Gorunn、豪德赫克Holderhek、铁拳Ironfist、罗德尔Loderr、鲁格Lutgehr、伦纳海姆Rumnaheim、史特拉肯Strakeln、托伦Torunn、乌加特Ungart
+- **氏族名称Clan Names：**巴尔德克Balderk、战锤Battlehammer、布劳南威尔Brawnanvil、丹吉尔Dankil、火铸Fireforge、霜须Frostbeard、果伦Gorunn、豪德赫克Holderhek、铁拳Ironfist、罗德尔Loderr、鲁格Lutgehr、伦纳海姆Rumnaheim、史特拉肯Strakeln、托伦Torunn、乌加特Ungart
 
 
 
